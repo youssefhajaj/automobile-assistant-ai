@@ -1,0 +1,47 @@
+# Project history (internal use only)
+historie.md
+
+# Large model files
+*.gguf
+*.bin
+*.safetensors
+
+# YOLOv8 model (optional - 6MB, can include if wanted)
+# best.pt
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+.env
+
+# Logs
+*.log
+api.log
+
+# Database (contains user data)
+*.db
+kounhany_analytics.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+
+# Documentation extraction
+kounhany_documentation.txt
+kounhany_manual.docx
+Documentation/
