@@ -512,9 +512,3 @@ This project is proprietary software developed for KOUNHANY.
 ## 👨‍💻 Author
 
 **Youssef Hajaj**
-
----
-
-<p align="center">
-  <strong>Built with ❤️ for the Moroccan automotive community</strong>
-</p>
