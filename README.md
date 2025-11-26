@@ -488,14 +488,6 @@ automobile-assistant-ai/
 
 ---
 
-## 🛡️ Security Notes
-
-- Never commit API keys or tokens to the repository
-- Use environment variables for sensitive configuration
-- The analytics database contains user conversations - handle appropriately
-- Implement rate limiting for production deployments
-
----
 
 ## 🤝 Contributing
 
